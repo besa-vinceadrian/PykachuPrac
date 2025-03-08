@@ -1,4 +1,8 @@
 ako to si bench
 ako si vince haha
+<<<<<<< HEAD
 
 ako to si rica
+=======
+ako to vince 2ako si zen
+>>>>>>> 2bb36ab78156435f99238fc9d5612a7d3943e007
